@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web-store/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/web-store/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-store/front-service/front-service.iml" filepath="$PROJECT_DIR$/web-store/front-service/front-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-store/product-service/product-service.iml" filepath="$PROJECT_DIR$/web-store/product-service/product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-store/store-common/store-common.iml" filepath="$PROJECT_DIR$/web-store/store-common/store-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-store/web-store.iml" filepath="$PROJECT_DIR$/web-store/web-store.iml" />
+    </modules>
+  </component>
+</project>
